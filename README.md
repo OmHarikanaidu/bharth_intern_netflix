@@ -1,3 +1,3 @@
-# bharth_intern_netflix
-#codealpha
+# bharat_intern_netflix
+#bharat intern
 #netflix
